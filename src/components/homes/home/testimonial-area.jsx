@@ -1,48 +1,54 @@
-import React, { useRef } from "react";
-import Slider from "react-slick";
+import React, { useRef } from 'react';
+import Slider from 'react-slick';
 
 const testimonial_data = [
   {
     id: 1,
-    name: "Courtney Henry",
-    img: "assets/img/icon/test-ava-01.png",
-    title: "Sr. UX/UI Designer",
+    name: 'Courtney Henry',
+    img: 'assets/img/icon/test-ava-01.png',
+    title: 'Sr. UX/UI Designer',
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        I was looking to update my skills and stay current with industry trends.
+        This course did not disappoint. The instructor's insights into the
+        latest design practices and their mastery of Adobe XD elevated my design
+        game.
       </>
     ),
   },
   {
     id: 2,
-    name: "Devon Lane",
-    img: "assets/img/icon/test-ava-02.png",
-    title: "Software Engineer",
+    name: 'Devon Lane',
+    img: 'assets/img/icon/test-ava-02.png',
+    title: 'Software Engineer',
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        The real-world coding projects were challenging yet immensely rewarding.
+        I appreciated the up-to-date content, which covered the latest industry
+        trends and best practices. Overall, an invaluable resource for any
+        software engineer.
       </>
     ),
   },
   {
     id: 3,
-    name: "Jenny Wilson",
-    img: "assets/img/icon/test-ava-03.png",
-    title: "Content Writer",
+    name: 'Jenny Wilson',
+    img: 'assets/img/icon/test-ava-03.png',
+    title: 'Content Writer',
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        This course was an absolute game-changer. This course has not only
+        improved my writing but also boosted my confidence in delivering
+        engaging and impactful content. I highly recommend it to all fellow
+        writers.
       </>
     ),
   },
   {
     id: 4,
-    name: "Jenny Wilson",
-    img: "assets/img/icon/test-ava-03.png",
-    title: "Content Writer",
+    name: 'Jenny Wilson',
+    img: 'assets/img/icon/test-ava-03.png',
+    title: 'Content Writer',
     des: (
       <>
         Dramatically supply transparent deliverab before & you backward comp
@@ -51,7 +57,6 @@ const testimonial_data = [
     ),
   },
 ];
-
 
 // slider setting
 const setting = {

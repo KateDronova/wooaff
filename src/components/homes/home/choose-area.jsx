@@ -12,7 +12,7 @@ const choose_data = {
       E-Pora Online learning
     </>
   ),
-  des: 'Dramatically supply transparent deliverables before & can backward comp internal or "organic" sources.',
+  des: 'Discover expert-led instruction, hands-on projects, and a supportive community to propel your IT career to new heights.',
 
   choose_list: [
     { title: "Increasing Your Learning Skills" },

@@ -10,7 +10,7 @@ const suitable_data = [
         Do you want to <span>Learn</span> here?
       </>
     ),
-    des: <>Dramatically supply transpa deliverables before & you.</>,
+    des: <>Self-learning. Take control of your own education and growth.</>,
     img: "/assets/img/bg/suit-bg-01.png",
   },
   {
@@ -20,7 +20,7 @@ const suitable_data = [
         Do you want to <span>Learn</span> here?
       </>
     ),
-    des: <>Dramatically supply transpa deliverables before & you.</>,
+    des: <>The instructor will make complex concepts feel easy to grasp.</>,
     img: "/assets/img/bg/suit-bg-02.png",
   },
 ];
