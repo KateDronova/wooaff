@@ -50,8 +50,8 @@ const CourseDetailsArea = () => {
                      </div>
                      <div className="c-details-about mb-40">
                         <h5 className="tp-c-details-title mb-20">About This Course</h5>
-                        <p>Synergistically foster 24/7 leadership rather than scalable platforms. Conveniently visualize installed base products before interactive results. Collaboratively restore corporate experiences and open-source applications. Proactively mesh cooperative growth strategies for covalent opportunities. Competently create efficient markets through best-of-breed potentialities.</p>
-                        <p>Proactively initiate corporate vortals via bricks-and-clicks relationships. Dynamically envisioneer cutting-edge paradigms via client-centered relationships. Globally repurpose backward-compatible growth strategies and fully tested e-services. Energistically promote stand-alone models whereas effective solutions. Quickly target low-risk high-yield e-markets via web-enabled networks.</p>
+                        <p>"Master Web Design in Adobe XD: Complete UI/UX Masterclass" is an extensive and comprehensive course designed to equip individuals with the knowledge and skills required to excel in the field of web design. This course covers a wide range of topics, making it suitable for both beginners and experienced designers looking to enhance their skills.</p>
+                        <p>This course offers a holistic learning experience that covers all aspects of web design, from user interface (UI) to user experience (UX) design. Participants can expect to gain a deep understanding of the entire web design process. The course is comprehensive and practical which means that it equips individuals with the knowledge and skills needed to excel in the dynamic field of web design, making it a valuable resource for both beginners and experienced designers.</p>
                      </div>
                      <div className="cor-details-instructor mb-40">
                         <h4 className="tp-c-details-title mb-40">Instructor</h4>
@@ -66,13 +66,13 @@ const CourseDetailsArea = () => {
                                  <ul className="d-flex align-items-center">
                                     <li>
                                        <div className="rating-gold d-flex align-items-center">
-                                          <p>4.7</p>
+                                          <p>4.8</p>
                                           <i className="fi fi-ss-star"></i>
                                           <i className="fi fi-ss-star"></i>
                                           <i className="fi fi-ss-star"></i>
                                           <i className="fi fi-ss-star"></i>
                                           <i className="fi fi-rs-star"></i>
-                                          <span>(125)</span>
+                                          <span>(150)</span>
                                        </div>
                                     </li>
                                     <li><img src="/assets/img/icon/c-details-01.png" alt="meta-icon" /><span>35 Classes</span></li>
@@ -85,7 +85,7 @@ const CourseDetailsArea = () => {
                               </div>
                            </div>
                         </div>
-                        <p>Synergistically foster 24/7 leadership rather than scalable platforms. Conveniently visualize installed base products before interactive results. Collaboratively restore corporate experiences and open-source applications. Proactively mesh cooperative growth strategies.</p>
+                        <p>Hossain Mahmud is a seasoned industry professional with years of experience in web design and UI/UX. His teaching style is engaging, and he has a knack for breaking down complex concepts into easily understandable lessons. He is committed to guiding students through practical, hands-on exercises and providing valuable insights into the latest trends and best practices in the world of web design.</p>
                      </div>
                      <div className="c-details-review pb-15">
                         <div className="c-review-title-wrapper">
